@@ -1,0 +1,16 @@
+# Private API credentials
+.streamlit/secrets.toml
+
+# Python virtual environment
+.nlpchat/
+.venv/
+
+# Original large dataset
+twcs.csv
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
